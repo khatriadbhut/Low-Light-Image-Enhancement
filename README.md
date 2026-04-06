@@ -72,7 +72,7 @@ For further knowledge you can view the graph plotted for psnr vs epochs at
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/kanika-04/Low-Light-Image-Enhancement
+    git clone https://github.com/khatriadbhut/Low-Light-Image-Enhancement
     ```
 2. Navigate to the project directory:
     ```bash
@@ -92,34 +92,11 @@ To train the model, run:
 python main.py
 ```
 
-## How to Install my Repository and work with it on your system ?
-## Installation
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/kanika-04/Low-Light-Image-Enhancement
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd ./Low-Light-Image-Enhancement/
-    next line:
-    cd ./Project/
-    ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-
-    ```
-## Training
-
-To train the model, run:
-```bash
-python main.py
-```
 ## More Knowledge
 For More Knowledge:
-U can view this report created by me :
-https://drive.google.com/file/d/1QJcQBRKx0XBfAuozyn60RmsiKcFH5Qff/view?usp=sharing
+You can view this report created by me :
+https://docs.google.com/document/d/1MyHYo90GuRfNxrACaOBk-vHIogpWPMXK/edit
 
 Or you can view the research paper at:
 https://www.ijfmr.com/papers/2023/3/4001.pdf
